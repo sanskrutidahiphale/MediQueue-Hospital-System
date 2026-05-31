@@ -1,0 +1,5 @@
+{
+  "name": "MediCare Hospital System",
+  "description": "A smart hospital queue management system with dedicated portals for patients, staff, and doctors.",
+  "requestFramePermissions": []
+}
