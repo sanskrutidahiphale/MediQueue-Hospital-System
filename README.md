@@ -30,7 +30,7 @@ MediQueue is a web-based hospital queue management system designed to improve pa
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MediQueue-Hospital-System.git
+git clone https://github.com/sanskrutidahiphale/MediQueue-Hospital-System.git
 ```
 
 ### Navigate to Project Directory
